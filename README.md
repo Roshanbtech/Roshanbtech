@@ -90,13 +90,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbtech&show_icons=true&locale=en&layout=compact&theme=purple" alt="roshanbtech top languages" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=purple" alt="roshanbtech GitHub stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=purple" alt="roshanbtech GitHub streak" />
+  <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 100%; text-align: center;">
+    <div>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbtech&show_icons=true&locale=en&layout=compact&theme=purple" alt="roshanbtech top languages" />
+    </div>
+    <div>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=purple" alt="roshanbtech GitHub stats" />
+    </div>
+    <div>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=purple" alt="roshanbtech GitHub streak" />
+    </div>
+  </div>
 </p>
