@@ -79,7 +79,7 @@
 
 <p align="center">
   <!-- Placeholder for Anime or coder GIFs -->
-  <img src="https://media.giphy.com/media/J2SYXtWRZhObBCrIFX/giphy.gif" width="250" alt="Coder GIF">
+  <img src="[https://media.giphy.com/media/J2SYXtWRZhObBCrIFX/giphy.gif](https://giffiles.alphacoders.com/219/thumb-440-219846.mp4)" width="250" alt="Coder GIF">
   <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="250" alt="Anime GIF">
 </p>
 
