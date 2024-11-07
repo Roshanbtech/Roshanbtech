@@ -1,4 +1,9 @@
-<h1 align="center">
+<p align="center">
+  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Banner GIF" width="100%" height="400px" />
+</p>
+
+<!-- Larger Title Section -->
+<h1 align="center" style="font-size: 3em; margin-top: 20px; margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/I_am_Roshan_Reji-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="I am Roshan Reji" />
 </h1>
 
@@ -90,7 +95,6 @@
 > **"I believe in the power of consistency. Every step, no matter how small, is a step towards success."**
 
 > **"Believe in yourself and keep moving forward!"**
-
 
 ---
 
