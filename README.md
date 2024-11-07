@@ -49,7 +49,7 @@
 ### 💡 Tech Stack
 
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/nmuax05zxoab1.gif" alt="c" width="" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.redd.it/nmuax05zxoab1.gif" alt="c" width="100" height="80"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.gif-maniac.com/gifs/50/49799.gif" alt="java" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" alt="html5" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/beingabeer/beingabeer/master/logo/css.gif" alt="css3" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
@@ -60,20 +60,20 @@
 </p>
 
 <p align="center">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1705116187638/b3a314d9-d8b1-4a0c-91da-259f588bb470.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="nodejs" width="80" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/format:jpg/resize:fit:600/0*g3Rud63B7gJx_DgP.gif" alt="mongodb" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.dribbble.com/users/2653319/screenshots/6813714/figma_logo_animation.gif" alt="figma" width="60" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://dev-to-uploads.s3.amazonaws.com/i/aemh1hg5e62n3t8z5vhp.gif" alt="git" width="80" height="40"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arshul/arshul/master/assets/postgresql.gif" alt="postgresql" width="100" height="80"/> </a>
 </p>
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.joshuaondieki.com/assets/gifs/Typescript.gif" alt="typescript" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" alt="react" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.440241008197dc4925958b22744191c0?rik=Ww0kZefeUBSrqg&riu=http%3a%2f%2fmath.iit.edu%2f%7efass%2fgraphics%2fml_5_mem.gif&ehk=0%2b92rAlHKWoz4M8CFHh5zTLViHqNJSZdJMhrM8jm26U%3d&risl=&pid=ImgRaw&r=0" alt="matlab" width="60" height="40"/> </a>
 </p>
 
 ---
