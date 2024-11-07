@@ -76,6 +76,6 @@
 
   .tech-icon:hover {
     transform: scale(1.1);
-    filter: brightness(0) saturate(100%) invert(48%) sepia(97%) saturate(0%) hue-rotate(105deg) brightness(103%) contrast(103%);
+    filter: brightness(0) saturate(100%) invert(55%) sepia(20%) saturate(2500%) hue-rotate(80deg) brightness(105%) contrast(105%);
   }
 </style>
