@@ -1,27 +1,24 @@
 name: generate animation
 
 on:
-  # run automatically every 12 hours
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the master branch
+    - cron: "0 */12 * * *"  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual triggering
   push:
     branches:
-    - main
-    
-  
+      - main  # Trigger on push to the main branch
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+    timeout-minutes: 10  # Set a timeout to avoid infinite runs
+
     steps:
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      # Step 1: Checkout the repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate the GitHub Contribution Snake Animation
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
@@ -29,10 +26,21 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: Push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+        continue-on-error: true  # Allows the workflow to continue even if this step fails
+
+      # Step 3: Check if the files exist in the dist folder
+      - name: Verify output files
+        run: |
+          echo "Listing contents of dist folder"
+          ls -la dist
+          # Ensure the expected SVG files are present
+          test -f dist/github-contribution-grid-snake.svg
+          test -f dist/github-contribution-grid-snake-dark.svg
+          # Optional: You can add more test cases or checks here if necessary
+
+      # Step 4: Push the generated files to the output branch
+      - name: Push generated files to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
