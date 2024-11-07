@@ -62,15 +62,12 @@
 
 ---
 
-### ⚡ Fun Fact
+### ⚡ Fun Fact & Inspiration
 
 > **"I believe in the power of consistency. Every step, no matter how small, is a step towards success."**
 
----
-
-### 🌟 Inspirational Quote
-
 > **"Believe in yourself and keep moving forward!"**
+
 
 ---
 
