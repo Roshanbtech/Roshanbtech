@@ -68,14 +68,3 @@
   <img src="https://media.giphy.com/media/J2SYXtWRZhObBCrIFX/giphy.gif" width="250" alt="Coder GIF">
   <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="250" alt="Anime GIF">
 </p>
-
-<style>
-  .tech-icon {
-    transition: transform 0.3s, filter 0.3s;
-  }
-
-  .tech-icon:hover {
-    transform: scale(1.1);
-    filter: brightness(0) saturate(100%) invert(55%) sepia(20%) saturate(2500%) hue-rotate(80deg) brightness(105%) contrast(105%);
-  }
-</style>
