@@ -1,90 +1,78 @@
 <h1 align="center">
   <span style="color: #39FF14; font-family: 'Courier New', monospace; font-size: 3em;">
-    <span>R</span><span>o</span><span>s</span><span>h</span><span>a</span><span>n</span> <span>R</span><span>e</span><span>j</span><span>i</span>
+    I am <span>R</span><span>o</span><span>s</span><span>h</span><span>a</span><span>n</span> <span>R</span><span>e</span><span>j</span><span>i</span>
   </span>
 </h1>
 
+<!-- Animated Text Placeholder -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="600" height="300" alt="Coder at work GIF">
+  <!-- This can be a JavaScript or CSS animation if needed; replace with a GIF or styled text animation if embedding isn’t possible on GitHub -->
 </p>
 
 ---
 
-## 👋 About Me
+### 🌟 About Me
 
-Hello! I'm **Roshan Reji**, a passionate **Web Developer** specializing in the **MERN stack**. I love building interactive and responsive full-stack web applications and am constantly exploring new technologies.
+<p align="center" style="color: #39FF14; font-family: 'Courier New', monospace;">
+  Aspiring MERN Stack Developer | Passionate Learner | Consistent Goal-Setter
+</p>
 
-- 💻 Experienced in **full-stack development** and building scalable applications.
-- 🌱 Currently expanding my skills in **TypeScript**, **Tailwind CSS**, and **Data Structures**.
-- 💬 Let's connect if you’re looking to collaborate on exciting projects or discuss new technologies!
+- 🎓 Pursuing academic growth and honing my skills as a **MERN stack developer**.
+- 🚀 Always eager to explore and learn **new technologies**.
+- 💼 Seeking opportunities to grow in a reputed company and contribute effectively to collaborative projects.
 
 ---
 
-## 🛠️ Tech Stack
+### 💡 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-React-39FF14?logo=react&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Node.js-39FF14?logo=node.js&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Express-39FF14?logo=express&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-MongoDB-39FF14?logo=mongodb&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Postman-39FF14?logo=postman&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-39FF14?logo=bootstrap&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-39FF14?logo=tailwind-css&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-39FF14?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-TypeScript-39FF14?logo=typescript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-HTML5-39FF14?logo=html5&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-CSS3-39FF14?logo=css3&logoColor=black&style=for-the-badge"/>
 </p>
 
 ---
 
-## ⚡ Projects
+### 📫 How to Reach Me
 
-Here are a few projects that showcase my skills:
+- ✉️ **Email**: [roshanreji987@gmail.com](mailto:roshanreji987@gmail.com)
+- 💬 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/roshan-reji-96951722b/)
 
-- **[Project Name](#)** - Interactive web application for X functionality using React and Node.js.
-- **[Project Name](#)** - A responsive MERN stack project that includes MongoDB and Express for backend API.
-- **[Project Name](#)** - Real-time application created with Next.js and TypeScript for improved performance.
+---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="250"/>
-  <img src="https://media.giphy.com/media/WNNBnOUMoGZEA/giphy.gif" width="250"/>
+### ⚡ Fun Fact
+
+<p align="center" style="color: #39FF14; font-family: 'Courier New', monospace;">
+  I believe in the power of consistency. Every step, no matter how small, is a step towards success.
 </p>
 
 ---
 
-## 📈 GitHub Stats
+### 🌟 Inspirational Quote
+
+> **"Believe in yourself and keep moving forward!"**
+
+---
+
+### Profile Visitors
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RoshanReji&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanReji&theme=radical" width="400"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RoshanReji.profile" alt="Profile Visitor Count">
 </p>
 
 ---
 
-## ✨ Inspirational Quotes
-
-> "Believe in yourself, even when others don't."  
-> — *Naruto Uzumaki*
-
-> "The only thing we're allowed to do is believe that we won’t regret the choice we made."  
-> — *Levi Ackerman*
-
----
-
-## 🌐 Connect with Me
-
+<!-- Placeholder for GIF Section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/roshan-reji-96951722b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
-  </a>
+  <!-- Anime or coder GIFs can be added here -->
+  <img src="https://media.giphy.com/media/J2SYXtWRZhObBCrIFX/giphy.gif" width="250" alt="Coder GIF">
+  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="250" alt="Anime GIF">
 </p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/j3D2VFSxjFo6ZgA7Sx/giphy.gif" width="500" alt="Coding with style GIF">
-</p>
-
-> **"In a world where you can be anything, be unstoppable!"**
