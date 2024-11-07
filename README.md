@@ -22,10 +22,22 @@
   <img src="https://img.shields.io/badge/-Aspiring_MERN_Stack_Developer|Passionate_Learner|Consistent_Goal_Setter-8A2BE2?style=for-the-badge&labelColor=black" alt="About Me"/>
 </p>
 
-- 🌱 I’m currently learning **React**
-- 🚀 Always eager to explore and learn **new technologies**.
-- 🎓 Pursuing academic growth and honing my skills as a **MERN stack developer**.
-- 💼 Seeking opportunities to grow in a reputed company and contribute effectively to collaborative projects.
+<table style="width: 100%; max-width: 1200px; margin: 0 auto;">
+  <tr>
+    <td style="width: 80%; vertical-align: top;">
+      <ul>
+        <li>🌱 I’m currently learning <strong>React</strong></li>
+        <li>🚀 Always eager to explore and learn <strong>new technologies</strong></li>
+        <li>🎓 Pursuing academic growth and honing my skills as a <strong>MERN stack developer</strong></li>
+        <li>💼 Seeking opportunities to grow in a reputed company and contribute effectively to collaborative projects.</li>
+      </ul>
+    </td>
+    <td style="width: 20%; text-align: center; vertical-align: top;">
+      <!-- Placeholder for GIF -->
+      <img src="https://giffiles.alphacoders.com/219/219846.gif" alt="Gif Placeholder" width="120" height="120" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,7 +78,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://giffiles.alphacoders.com/219/219846.gif" width="250" alt="Coder GIF">
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="250" alt="Coder GIF">
     </td>
   </tr>
 </table>
