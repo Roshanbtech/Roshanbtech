@@ -57,8 +57,19 @@
 
 ### 📫 How to Reach Me
 
-- ✉️ **Email**: [roshanreji987@gmail.com](mailto:roshanreji987@gmail.com)
-- 💬 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/roshan-reji-96951722b/)
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>✉️ <strong>Email</strong>: <a href="mailto:roshanreji987@gmail.com"><img src="https://img.shields.io/badge/-roshanreji987%40gmail.com-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="Email"></a></li>
+        <li>💬 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/roshan-reji-96951722b/"><img src="https://img.shields.io/badge/-Connect%20with%20me-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="LinkedIn"></a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://giffiles.alphacoders.com/219/219846.gif" width="250" alt="Coder GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,14 +79,6 @@
 
 > **"Believe in yourself and keep moving forward!"**
 
-
----
-
-<p align="center">
-  <!-- Placeholder for Anime or coder GIFs -->
-  <img src="https://giffiles.alphacoders.com/219/219846.gif" width="250" alt="Coder GIF">
-  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="250" alt="Anime GIF">
-</p>
 
 ---
 
