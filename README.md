@@ -89,20 +89,18 @@
 
 ### 📊 GitHub Stats
 
-<table align="center">
+<table align="center" style="border: 2px solid #8A2BE2; padding: 10px;">
   <tr>
-    <!-- First row with two items side by side -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbtech&show_icons=true&locale=en&layout=compact&theme=purple" alt="roshanbtech top languages" />
+    <td align="center" style="border: 1px solid #8A2BE2; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbtech&show_icons=true&locale=en&layout=compact&theme=purple" alt="Top Languages" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=purple" alt="roshanbtech GitHub stats" />
+    <td align="center" style="border: 1px solid #8A2BE2; padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=purple" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
-    <!-- Second row with one centered item -->
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=purple" alt="roshanbtech GitHub streak" />
+    <td colspan="2" align="center" style="padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=purple" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
