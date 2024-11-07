@@ -1,7 +1,5 @@
 <h1 align="center">
-  <span style="color: #8A2BE2; font-family: 'Courier New', monospace; font-size: 3em;">
-    I am <span>R</span><span>o</span><span>s</span><span>h</span><span>a</span><span>n</span> <span>R</span><span>e</span><span>j</span><span>i</span>
-  </span>
+  <img src="https://img.shields.io/badge/I_am_Roshan_Reji-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="I am Roshan Reji" />
 </h1>
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
@@ -20,8 +18,8 @@
 
 ### 🌟 About Me
 
-<p align="center" style="color: #8A2BE2; font-family: 'Courier New', monospace;">
-  Aspiring MERN Stack Developer | Passionate Learner | Consistent Goal-Setter
+<p align="center">
+  <img src="https://img.shields.io/badge/-Aspiring_MERN_Stack_Developer|Passionate_Learner|Consistent_Goal_Setter-8A2BE2?style=for-the-badge&labelColor=black" alt="About Me"/>
 </p>
 
 - 🌱 I’m currently learning **React**
@@ -55,7 +53,6 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
 
-
 ---
 
 ### 📫 How to Reach Me
@@ -67,9 +64,7 @@
 
 ### ⚡ Fun Fact
 
-<p align="center" style="color: #8A2BE2; font-family: 'Courier New', monospace;">
-  I believe in the power of consistency. Every step, no matter how small, is a step towards success.
-</p>
+> **"I believe in the power of consistency. Every step, no matter how small, is a step towards success."**
 
 ---
 
@@ -89,19 +84,8 @@
 
 ### 📊 GitHub Stats
 
-<table align="center" style="border: 2px solid #8A2BE2; padding: 10px;">
-  <tr>
-    <td align="center" style="border: 1px solid #8A2BE2; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbtech&show_icons=true&locale=en&layout=compact&theme=purple" alt="Top Languages" />
-    </td>
-    <td align="center" style="border: 1px solid #8A2BE2; padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=purple" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="padding: 10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=purple" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbtech&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
+</p>
