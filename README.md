@@ -89,19 +89,21 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; width: 100%; max-width: 800px; margin: auto;">
-    <!-- First row with two items -->
-    <div style="text-align: center;">
+<table align="center">
+  <tr>
+    <!-- First row with two items side by side -->
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanbtech&show_icons=true&locale=en&layout=compact&theme=purple" alt="roshanbtech top languages" />
-    </div>
-    <div style="text-align: center;">
+    </td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=purple" alt="roshanbtech GitHub stats" />
-    </div>
+    </td>
+  </tr>
+  <tr>
     <!-- Second row with one centered item -->
-    <div style="grid-column: span 2; text-align: center;">
+    <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=purple" alt="roshanbtech GitHub streak" />
-    </div>
-  </div>
-</p>
+    </td>
+  </tr>
+</table>
 
