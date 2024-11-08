@@ -39,7 +39,7 @@
     </td>
     <td style="width: 20%; text-align: center; vertical-align: top;">
       <!-- Placeholder for GIF -->
-      <img src="https://giffiles.alphacoders.com/219/219846.gif" alt="Gif Placeholder" width="120" height="120" />
+      <img src="https://giffiles.alphacoders.com/219/219846.gif" alt="Gif Placeholder" width="120" height="120" loading="lazy" />
     </td>
   </tr>
 </table>
