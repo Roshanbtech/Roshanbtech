@@ -112,7 +112,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
 </p>
 
-### Snake
+### Contributions
 
 <img src="https://raw.githubusercontent.com/Roshanbtech/Roshanbtech/output/snake.svg" alt="Snake animation" />
 
