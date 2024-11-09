@@ -111,3 +111,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roshanbtech&show_icons=true&locale=en&theme=dark&bg_color=000000&title_color=8A2BE2&text_color=8A2BE2" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanbtech&theme=dark&background=000000&border=8A2BE2&stroke=8A2BE2&ring=8A2BE2&fire=8A2BE2" alt="GitHub Streak" />
 </p>
+
+### Snake
+
+<img src="https://raw.githubusercontent.com/Roshanbtech/Roshanbtech/output/snake.svg" alt="Snake animation" />
+
+###
