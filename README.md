@@ -31,7 +31,7 @@
   <tr>
     <td style="width: 80%; vertical-align: top;">
       <ul>
-        <li>🌱 I’m currently learning <strong>React</strong></li>
+        <li>🌱 I’m currently working on <strong>MERN</strong></li>
         <li>🚀 Always eager to explore and learn <strong>new technologies</strong></li>
         <li>🎓 Pursuing academic growth and honing my skills as a <strong>MERN stack developer</strong></li>
         <li>💼 Seeking opportunities to grow in a reputed company and contribute effectively to collaborative projects.</li>
