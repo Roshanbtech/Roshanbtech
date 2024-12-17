@@ -70,7 +70,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.joshuaondieki.com/assets/gifs/Typescript.gif" alt="typescript" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="typescript" width="80" height="60"/>
+</a>&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" alt="react" width="80" height="60"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="redux" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.440241008197dc4925958b22744191c0?rik=Ww0kZefeUBSrqg&riu=http%3a%2f%2fmath.iit.edu%2f%7efass%2fgraphics%2fml_5_mem.gif&ehk=0%2b92rAlHKWoz4M8CFHh5zTLViHqNJSZdJMhrM8jm26U%3d&risl=&pid=ImgRaw&r=0" alt="matlab" width="60" height="40"/> </a>
