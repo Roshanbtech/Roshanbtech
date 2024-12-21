@@ -86,8 +86,21 @@
   <tr>
     <td>
       <ul>
-        <li>✉️ <strong>Email</strong>: <a href="mailto:roshanreji987@gmail.com"><img src="https://img.shields.io/badge/-roshanreji987%40gmail.com-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="Email"></a></li>
-        <li>💬 <strong>LinkedIn</strong>: <a href="https://www.linkedin.com/in/roshan-reji-96951722b/"><img src="https://img.shields.io/badge/-Connect%20with%20me-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="LinkedIn"></a></li>
+       <li>✉️ <strong>Email</strong>: 
+    <a href="mailto:roshanreji987@gmail.com">
+        <img src="https://img.shields.io/badge/-roshanreji987%40gmail.com-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="Email">
+    </a>
+</li>
+<li>💬 <strong>LinkedIn</strong>: 
+    <a href="https://www.linkedin.com/in/roshan-reji-96951722b/">
+        <img src="https://img.shields.io/badge/-Connect%20with%20me-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="LinkedIn">
+    </a>
+</li>
+<li>🖩 <strong>LeetCode</strong>: 
+    <a href="https://leetcode.com/u/RejiRoshan/">
+        <img src="https://img.shields.io/badge/-LeetCode%20Profile-8A2BE2?style=for-the-badge&labelColor=black&color=8A2BE2" alt="LeetCode">
+    </a>
+</li>
       </ul>
     </td>
     <td>
